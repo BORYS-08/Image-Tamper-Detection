@@ -50,7 +50,7 @@ Image-Tamper-Detection/
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/Yashrana2004/Image-Tamper-Detection.git
+git clone https://github.com/BORYS-08/Image-Tamper-Detection.git
 
 cd Image-Tamper-Detection
 
