@@ -83,4 +83,4 @@ The project generates:
 **Vedish Patel**
 
 GitHub:
-https://github.com/Yashrana2004
+https://github.com/BORYS-08
