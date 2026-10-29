@@ -1,3 +1,5 @@
+Project Made By Pate Vedish Harshadkumar, Computer Science & Engineering Student
+
 # 🔍 Image Tamper Detection
 
 A Python-based image tampering detection system that identifies manipulated images using image processing techniques and generates comparison reports.
