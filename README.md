@@ -80,7 +80,7 @@ The project generates:
 
 ## 👨‍💻 Author
 
-**Yash Rana**
+**Vedish Patel**
 
 GitHub:
 https://github.com/Yashrana2004
